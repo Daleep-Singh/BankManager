@@ -1,2 +1,2 @@
 # BankManager
-A Bank managing program that can deposit, withdraw, merge BankAccounts, 
+A simple bank managing program that demonstrated the use of the MVC design pattern
