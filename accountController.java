@@ -1,4 +1,4 @@
-package MVC;
+
 import java.util.Scanner;
 
 public class accountController {
